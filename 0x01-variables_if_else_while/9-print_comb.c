@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *here  main -will  Print numbers between 0 to 9 with commas and spaces.
+ * main - Prints numbers between 0 to 9 with commas and spaces.
  *
  * Return: Always 0 (Success)
  */

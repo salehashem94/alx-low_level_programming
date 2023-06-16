@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- *here  main -does  Determines if  either greater than 5,or  is less than 6, or is 0
+ * main - Determines either greater than 5, is less than 6, or is 0
  *
  * Return: Always 0 (Success)
  */
